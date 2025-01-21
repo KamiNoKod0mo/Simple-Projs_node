@@ -12,8 +12,8 @@ Uma aplicação Node.js para exemplificar sua utilização.
 ## Instalação
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/usuario/my-node-project.git
-   cd my-node-project
+   git clone https://github.com/KamiNoKod0mo/Simple-Projs_node
+   cd Simple-Projs_node
    npm install
     ```
 
